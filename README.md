@@ -1,3 +1,21 @@
+Proyecto en Reactjs para desarrollo de front de juego Rock paper & scissor
+Instalar las dependencias con *npm install* (u otro package manager)
+
+Ejecución: 
+
+## `npm start`  --> modo desarrollador
+
+## `npm run build` --> compila la app y la almacena en la carpeta build
+
+### Dependencias
+* reactstrap
+* react-select
+* react-router-dom
+* axios
+*
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
