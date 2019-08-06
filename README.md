@@ -14,7 +14,9 @@ Ejecución:
 * axios
 *
 
+## !!
 
+La app fue probada de manera local en modo desarrollo en puerto :3000, la ruta al back es a través de 127.0.0.1:8000
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
